@@ -9,7 +9,7 @@ const gstpRoutes = require("./routes/gstp.routes");
 const app = express();
 
 const allowedOrigins = [
-    "https://gstpf-frontend.vercel.app/",
+    "https://gstpf-frontend.vercel.app",
     "http://localhost:5500",
     "http://127.0.0.1:5500",
     process.env.FRONTEND_URL
