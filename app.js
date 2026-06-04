@@ -36,4 +36,14 @@ app.get("/", (req, res) => {
 app.use("/api/auth", authRoutes);
 app.use("/api/gstp", gstpRoutes);
 
+const PORT = process.env.PORT || 3000;
+
+// Required for Vercel
 module.exports = app;
+
+// Required only for local development
+if (require.main === module) {
+    app.listen(PORT, () => {
+        console.log(`Backend server running on http://localhost:${PORT}`);
+    });
+}
