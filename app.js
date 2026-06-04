@@ -9,8 +9,8 @@ const gstpRoutes = require("./routes/gstp.routes");
 const app = express();
 
 const allowedOrigins = [
-    "http://127.0.0.1:5500",
     "http://localhost:5500",
+    "http://127.0.0.1:5500",
     process.env.FRONTEND_URL
 ].filter(Boolean);
 
@@ -36,14 +36,4 @@ app.get("/", (req, res) => {
 app.use("/api/auth", authRoutes);
 app.use("/api/gstp", gstpRoutes);
 
-const PORT = process.env.PORT || 3000;
-
-// Export Express app for Vercel
 module.exports = app;
-
-// Start normal server only during local development
-if (require.main === module) {
-    app.listen(PORT, () => {
-        console.log(`Backend server running on http://localhost:${PORT}`);
-    });
-}
