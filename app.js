@@ -16,7 +16,6 @@ const allowedOrigins = [
 
 app.use(cors({
     origin(origin, callback) {
-        // Allow tools such as Bruno and browser requests with an approved origin
         if (!origin || allowedOrigins.includes(origin)) {
             return callback(null, true);
         }
@@ -27,7 +26,6 @@ app.use(cors({
 
 app.use(express.json());
 
-// Backend status route
 app.get("/", (req, res) => {
     res.json({
         success: true,
@@ -40,10 +38,10 @@ app.use("/api/gstp", gstpRoutes);
 
 const PORT = process.env.PORT || 3000;
 
-// Required for Vercel
+// Export Express app for Vercel
 module.exports = app;
 
-// Required for local development
+// Start normal server only during local development
 if (require.main === module) {
     app.listen(PORT, () => {
         console.log(`Backend server running on http://localhost:${PORT}`);
