@@ -1,0 +1,85 @@
+{
+  "pincode": "600124",
+  "stateCode": "33",
+  "districtCode": "TNCHE",
+  "scrapedAt": "2026-06-01T05:38:44.846Z",
+  "totalRecords": 2,
+  "records": [
+    {
+      "pincode": "600124",
+      "enrollmentNo": "331800000818GPI",
+      "name": "SAMBATH DINESH",
+      "stateCode": "33",
+      "districtCode": "",
+      "qualification": "",
+      "address": "",
+      "district": "",
+      "city": "",
+      "pinCode": "600124",
+      "mobileNo": "",
+      "emailId": "",
+      "status": "",
+      "_raw": {
+        "enrlNo": "331800000818GPI",
+        "trpNam": "SAMBATH DINESH",
+        "stCd": "33",
+        "dstCd": null,
+        "pinCd": null,
+        "cntctNo": "9840667886",
+        "emailId": "dinesh.sicasa@gmail.com",
+        "ctgry": "GOPDC",
+        "adrs": {
+          "bldNo": "1/61",
+          "fltNo": "",
+          "bldName": null,
+          "road": "big street",
+          "locality": "kuthmbakkam village and post",
+          "district": "TNCHE",
+          "pinCd": "600124",
+          "addr": "1/61,big street,kuthmbakkam village and post"
+        },
+        "searchType": null,
+        "authTokn": null,
+        "status": "A"
+      }
+    },
+    {
+      "pincode": "600124",
+      "enrollmentNo": "331800003036GPX",
+      "name": "MOHAN DINESH KUMAR",
+      "stateCode": "33",
+      "districtCode": "",
+      "qualification": "",
+      "address": "",
+      "district": "",
+      "city": "",
+      "pinCode": "600124",
+      "mobileNo": "",
+      "emailId": "",
+      "status": "",
+      "_raw": {
+        "enrlNo": "331800003036GPX",
+        "trpNam": "MOHAN DINESH KUMAR",
+        "stCd": "33",
+        "dstCd": null,
+        "pinCd": null,
+        "cntctNo": "8610746493",
+        "emailId": "dineshassociates16@gmail.com",
+        "ctgry": "GOPDC",
+        "adrs": {
+          "bldNo": "15.",
+          "fltNo": null,
+          "bldName": null,
+          "road": "S.V.K.Street,Keelmanambedu,",
+          "locality": "Vellavedu Post,",
+          "district": "TNCHE",
+          "pinCd": "600124",
+          "addr": "15.,S.V.K.Street,Keelmanambedu,,Vellavedu Post,"
+        },
+        "searchType": null,
+        "authTokn": null,
+        "status": "A"
+      }
+    }
+  ]
+}

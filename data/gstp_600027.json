@@ -1,0 +1,85 @@
+{
+  "pincode": "600027",
+  "stateCode": "33",
+  "districtCode": "TNCHE",
+  "scrapedAt": "2026-06-01T05:35:19.637Z",
+  "totalRecords": 2,
+  "records": [
+    {
+      "pincode": "600027",
+      "enrollmentNo": "331800000629GPJ",
+      "name": "PRABU GANESAN",
+      "stateCode": "33",
+      "districtCode": "",
+      "qualification": "",
+      "address": "",
+      "district": "",
+      "city": "",
+      "pinCode": "600027",
+      "mobileNo": "",
+      "emailId": "",
+      "status": "",
+      "_raw": {
+        "enrlNo": "331800000629GPJ",
+        "trpNam": "PRABU GANESAN",
+        "stCd": "33",
+        "dstCd": null,
+        "pinCd": null,
+        "cntctNo": "9710198788",
+        "emailId": "sweetprabu.g@gmail.com",
+        "ctgry": "GPDBA",
+        "adrs": {
+          "bldNo": "No.7,",
+          "fltNo": "3rd Floor,",
+          "bldName": "Sri Iyappa Complex",
+          "road": "Ambedkar Street, GST Road,",
+          "locality": "Meenambakkam, Chennai",
+          "district": "TNCHE",
+          "pinCd": "600027",
+          "addr": "3rd Floor,,No.7,,Sri Iyappa Complex,Ambedkar Street, GST Road,,Meenambakkam, Chennai"
+        },
+        "searchType": null,
+        "authTokn": null,
+        "status": "A"
+      }
+    },
+    {
+      "pincode": "600027",
+      "enrollmentNo": "332100007053GPA",
+      "name": "KAMALA KANNAN VENKATESAN",
+      "stateCode": "33",
+      "districtCode": "",
+      "qualification": "",
+      "address": "",
+      "district": "",
+      "city": "",
+      "pinCode": "600027",
+      "mobileNo": "",
+      "emailId": "",
+      "status": "",
+      "_raw": {
+        "enrlNo": "332100007053GPA",
+        "trpNam": "KAMALA KANNAN VENKATESAN",
+        "stCd": "33",
+        "dstCd": null,
+        "pinCd": null,
+        "cntctNo": "7418772842",
+        "emailId": "vktax.co@gmail.com",
+        "ctgry": "GPDBA",
+        "adrs": {
+          "bldNo": "NO.2",
+          "fltNo": null,
+          "bldName": null,
+          "road": "THIRUVALLUVAR STREET",
+          "locality": "MEENAMBAKKAM",
+          "district": "TNCHE",
+          "pinCd": "600027",
+          "addr": "NO.2,THIRUVALLUVAR STREET,MEENAMBAKKAM"
+        },
+        "searchType": null,
+        "authTokn": null,
+        "status": "A"
+      }
+    }
+  ]
+}

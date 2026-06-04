@@ -1,0 +1,47 @@
+{
+  "pincode": "600067",
+  "stateCode": "33",
+  "districtCode": "TNCHE",
+  "scrapedAt": "2026-06-01T05:36:43.977Z",
+  "totalRecords": 1,
+  "records": [
+    {
+      "pincode": "600067",
+      "enrollmentNo": "332000006099GPX",
+      "name": "R VADIVEL",
+      "stateCode": "33",
+      "districtCode": "",
+      "qualification": "",
+      "address": "",
+      "district": "",
+      "city": "",
+      "pinCode": "600067",
+      "mobileNo": "",
+      "emailId": "",
+      "status": "",
+      "_raw": {
+        "enrlNo": "332000006099GPX",
+        "trpNam": "R VADIVEL",
+        "stCd": "33",
+        "dstCd": null,
+        "pinCd": null,
+        "cntctNo": "9003046939",
+        "emailId": "vadiveltrpvb@gmail.com",
+        "ctgry": "GPDBA",
+        "adrs": {
+          "bldNo": "1/497 3rd cross street",
+          "fltNo": null,
+          "bldName": null,
+          "road": "Balaganesan nagar",
+          "locality": "Padiyanallur",
+          "district": "TNCHE",
+          "pinCd": "600067",
+          "addr": "1/497 3rd cross street,Balaganesan nagar,Padiyanallur"
+        },
+        "searchType": null,
+        "authTokn": null,
+        "status": "A"
+      }
+    }
+  ]
+}

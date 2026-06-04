@@ -1,0 +1,47 @@
+{
+  "pincode": "600098",
+  "stateCode": "33",
+  "districtCode": "TNCHE",
+  "scrapedAt": "2026-06-01T05:37:49.589Z",
+  "totalRecords": 1,
+  "records": [
+    {
+      "pincode": "600098",
+      "enrollmentNo": "331800000103GP7",
+      "name": "sanjay",
+      "stateCode": "33",
+      "districtCode": "",
+      "qualification": "",
+      "address": "",
+      "district": "",
+      "city": "",
+      "pinCode": "600098",
+      "mobileNo": "",
+      "emailId": "",
+      "status": "",
+      "_raw": {
+        "enrlNo": "331800000103GP7",
+        "trpNam": "sanjay",
+        "stCd": "33",
+        "dstCd": null,
+        "pinCd": null,
+        "cntctNo": "9884706654",
+        "emailId": "sanjaydivakar.ca@gmail.com",
+        "ctgry": "GOPDC",
+        "adrs": {
+          "bldNo": "Door No.1",
+          "fltNo": "2nd Floor",
+          "bldName": "Duraikannu Illam",
+          "road": "Brahmin Street",
+          "locality": "Pattaravakkam",
+          "district": "TNCHE",
+          "pinCd": "600098",
+          "addr": "2nd Floor,Door No.1,Duraikannu Illam,Brahmin Street,Pattaravakkam"
+        },
+        "searchType": null,
+        "authTokn": null,
+        "status": "A"
+      }
+    }
+  ]
+}

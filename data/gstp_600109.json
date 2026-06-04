@@ -1,0 +1,85 @@
+{
+  "pincode": "600109",
+  "stateCode": "33",
+  "districtCode": "TNCHE",
+  "scrapedAt": "2026-06-01T05:38:13.246Z",
+  "totalRecords": 2,
+  "records": [
+    {
+      "pincode": "600109",
+      "enrollmentNo": "331800000740GPX",
+      "name": "SREE VIGNESH",
+      "stateCode": "33",
+      "districtCode": "",
+      "qualification": "",
+      "address": "",
+      "district": "",
+      "city": "",
+      "pinCode": "600109",
+      "mobileNo": "",
+      "emailId": "",
+      "status": "",
+      "_raw": {
+        "enrlNo": "331800000740GPX",
+        "trpNam": "SREE VIGNESH",
+        "stCd": "33",
+        "dstCd": null,
+        "pinCd": null,
+        "cntctNo": "9176499307",
+        "emailId": "mailusmuraliassociates@gmail.com",
+        "ctgry": "STPEL",
+        "adrs": {
+          "bldNo": "SHOP NO 01",
+          "fltNo": null,
+          "bldName": "NAGAAMMAI NAGAR",
+          "road": "CAR SHED COMPLEX, MAIN ROAD",
+          "locality": "ANNANUR CHENNAI",
+          "district": "TNCHE",
+          "pinCd": "600109",
+          "addr": "SHOP NO 01,NAGAAMMAI NAGAR,CAR SHED COMPLEX, MAIN ROAD,ANNANUR CHENNAI"
+        },
+        "searchType": null,
+        "authTokn": null,
+        "status": "A"
+      }
+    },
+    {
+      "pincode": "600109",
+      "enrollmentNo": "331800002565GPN",
+      "name": "Thangaraj Dhanapal",
+      "stateCode": "33",
+      "districtCode": "",
+      "qualification": "",
+      "address": "",
+      "district": "",
+      "city": "",
+      "pinCode": "600109",
+      "mobileNo": "",
+      "emailId": "",
+      "status": "",
+      "_raw": {
+        "enrlNo": "331800002565GPN",
+        "trpNam": "Thangaraj Dhanapal",
+        "stCd": "33",
+        "dstCd": null,
+        "pinCd": null,
+        "cntctNo": "9176913777",
+        "emailId": "dhanapalraja24@gmail.com",
+        "ctgry": "GOPDC",
+        "adrs": {
+          "bldNo": "No.9",
+          "fltNo": null,
+          "bldName": "",
+          "road": "8th Street 7th Cross Street",
+          "locality": "Vaishnavi Nagar Avadi Carshed Complex",
+          "district": "TNCHE",
+          "pinCd": "600109",
+          "addr": "No.9,8th Street 7th Cross Street,Vaishnavi Nagar Avadi Carshed Complex"
+        },
+        "searchType": null,
+        "authTokn": null,
+        "status": "A"
+      }
+    }
+  ]
+}

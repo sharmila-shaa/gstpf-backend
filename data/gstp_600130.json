@@ -1,0 +1,123 @@
+{
+  "pincode": "600130",
+  "stateCode": "33",
+  "districtCode": "TNCHE",
+  "scrapedAt": "2026-06-01T05:38:57.898Z",
+  "totalRecords": 3,
+  "records": [
+    {
+      "pincode": "600130",
+      "enrollmentNo": "331700000040GPD",
+      "name": "MAHENDRA KUNKU",
+      "stateCode": "33",
+      "districtCode": "",
+      "qualification": "",
+      "address": "",
+      "district": "",
+      "city": "",
+      "pinCode": "600130",
+      "mobileNo": "",
+      "emailId": "",
+      "status": "",
+      "_raw": {
+        "enrlNo": "331700000040GPD",
+        "trpNam": "MAHENDRA KUNKU",
+        "stCd": "33",
+        "dstCd": null,
+        "pinCd": null,
+        "cntctNo": "9840122782",
+        "emailId": "mahendra.kunku@gmail.com",
+        "ctgry": "CMAHC",
+        "adrs": {
+          "bldNo": "2B",
+          "fltNo": "2",
+          "bldName": "ASVINI ASHVITA FLATS",
+          "road": "SIRUSERI MAIN ROAD",
+          "locality": "SIRUSERI",
+          "district": "TNCHE",
+          "pinCd": "600130",
+          "addr": "2,2B,ASVINI ASHVITA FLATS,SIRUSERI MAIN ROAD,SIRUSERI"
+        },
+        "searchType": null,
+        "authTokn": null,
+        "status": "A"
+      }
+    },
+    {
+      "pincode": "600130",
+      "enrollmentNo": "332000006836GPT",
+      "name": "Suneel Kumar Pancharatnam",
+      "stateCode": "33",
+      "districtCode": "",
+      "qualification": "",
+      "address": "",
+      "district": "",
+      "city": "",
+      "pinCode": "600130",
+      "mobileNo": "",
+      "emailId": "",
+      "status": "",
+      "_raw": {
+        "enrlNo": "332000006836GPT",
+        "trpNam": "Suneel Kumar Pancharatnam",
+        "stCd": "33",
+        "dstCd": null,
+        "pinCd": null,
+        "cntctNo": "9844792246",
+        "emailId": "suneel1234@gmail.com",
+        "ctgry": "GOPDC",
+        "adrs": {
+          "bldNo": "Flat No 6N,Sapphire 1 Block",
+          "fltNo": "6th Floor",
+          "bldName": "Olympia Opaline Apartments",
+          "road": "OMR Road",
+          "locality": "Chennai",
+          "district": "TNCHE",
+          "pinCd": "600130",
+          "addr": "6th Floor,Flat No 6N,Sapphire 1 Block,Olympia Opaline Apartments,OMR Road,Chennai"
+        },
+        "searchType": null,
+        "authTokn": null,
+        "status": "A"
+      }
+    },
+    {
+      "pincode": "600130",
+      "enrollmentNo": "332100007105GP9",
+      "name": "SUMATHY",
+      "stateCode": "33",
+      "districtCode": "",
+      "qualification": "",
+      "address": "",
+      "district": "",
+      "city": "",
+      "pinCode": "600130",
+      "mobileNo": "",
+      "emailId": "",
+      "status": "",
+      "_raw": {
+        "enrlNo": "332100007105GP9",
+        "trpNam": "SUMATHY",
+        "stCd": "33",
+        "dstCd": null,
+        "pinCd": null,
+        "cntctNo": "9176711779",
+        "emailId": "tallysumathy@gmail.com",
+        "ctgry": "GOPDC",
+        "adrs": {
+          "bldNo": "Flat No T3",
+          "fltNo": "3rd Floor",
+          "bldName": "Stepsstones Prasanas",
+          "road": "Ottiyambakkam Main Road",
+          "locality": "Ottiyambakkam",
+          "district": "TNCHE",
+          "pinCd": "600130",
+          "addr": "3rd Floor,Flat No T3,Stepsstones Prasanas,Ottiyambakkam Main Road,Ottiyambakkam"
+        },
+        "searchType": null,
+        "authTokn": null,
+        "status": "A"
+      }
+    }
+  ]
+}

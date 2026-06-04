@@ -1,0 +1,85 @@
+{
+  "pincode": "600129",
+  "stateCode": "33",
+  "districtCode": "TNCHE",
+  "scrapedAt": "2026-06-01T05:38:55.764Z",
+  "totalRecords": 2,
+  "records": [
+    {
+      "pincode": "600129",
+      "enrollmentNo": "332000006121GPI",
+      "name": "KULASEKARAN CHITHRA",
+      "stateCode": "33",
+      "districtCode": "",
+      "qualification": "",
+      "address": "",
+      "district": "",
+      "city": "",
+      "pinCode": "600129",
+      "mobileNo": "",
+      "emailId": "",
+      "status": "",
+      "_raw": {
+        "enrlNo": "332000006121GPI",
+        "trpNam": "KULASEKARAN CHITHRA",
+        "stCd": "33",
+        "dstCd": null,
+        "pinCd": null,
+        "cntctNo": "7598291971",
+        "emailId": "schithi71@gmail.com",
+        "ctgry": "GPDBA",
+        "adrs": {
+          "bldNo": "275",
+          "fltNo": "First fllor",
+          "bldName": null,
+          "road": "Viduthalai Nagar First Main Road",
+          "locality": "Kovilambakkam",
+          "district": "TNCHE",
+          "pinCd": "600129",
+          "addr": "First fllor,275,Viduthalai Nagar First Main Road,Kovilambakkam"
+        },
+        "searchType": null,
+        "authTokn": null,
+        "status": "A"
+      }
+    },
+    {
+      "pincode": "600129",
+      "enrollmentNo": "332000006669GPO",
+      "name": "ANBUSELVAM",
+      "stateCode": "33",
+      "districtCode": "",
+      "qualification": "",
+      "address": "",
+      "district": "",
+      "city": "",
+      "pinCode": "600129",
+      "mobileNo": "",
+      "emailId": "",
+      "status": "",
+      "_raw": {
+        "enrlNo": "332000006669GPO",
+        "trpNam": "ANBUSELVAM",
+        "stCd": "33",
+        "dstCd": null,
+        "pinCd": null,
+        "cntctNo": "7695874648",
+        "emailId": "anbuselvamn@outlook.com",
+        "ctgry": "GOPDC",
+        "adrs": {
+          "bldNo": "3/450",
+          "fltNo": null,
+          "bldName": null,
+          "road": "MEDAVAKKAM MAIN ROAD,",
+          "locality": "KOVILAMBAKKAM, NEAR ROSE NAGAR",
+          "district": "TNCHE",
+          "pinCd": "600129",
+          "addr": "3/450,MEDAVAKKAM MAIN ROAD,,KOVILAMBAKKAM, NEAR ROSE NAGAR"
+        },
+        "searchType": null,
+        "authTokn": null,
+        "status": "A"
+      }
+    }
+  ]
+}

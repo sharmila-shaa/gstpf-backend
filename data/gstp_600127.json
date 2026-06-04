@@ -1,0 +1,47 @@
+{
+  "pincode": "600127",
+  "stateCode": "33",
+  "districtCode": "TNCHE",
+  "scrapedAt": "2026-06-01T05:38:51.274Z",
+  "totalRecords": 1,
+  "records": [
+    {
+      "pincode": "600127",
+      "enrollmentNo": "332200007551GP2",
+      "name": "VARSHAN",
+      "stateCode": "33",
+      "districtCode": "",
+      "qualification": "",
+      "address": "",
+      "district": "",
+      "city": "",
+      "pinCode": "600127",
+      "mobileNo": "",
+      "emailId": "",
+      "status": "",
+      "_raw": {
+        "enrlNo": "332200007551GP2",
+        "trpNam": "VARSHAN",
+        "stCd": "33",
+        "dstCd": null,
+        "pinCd": null,
+        "cntctNo": "9884433423",
+        "emailId": "pa.varshan@gmail.com",
+        "ctgry": "GOPDC",
+        "adrs": {
+          "bldNo": "SBIOA Unity Enclave",
+          "fltNo": "T 084",
+          "bldName": "SBIOA Unity Enclave",
+          "road": "Mambakkam",
+          "locality": "mambakkam",
+          "district": "TNCHE",
+          "pinCd": "600127",
+          "addr": "T 084,SBIOA Unity Enclave,SBIOA Unity Enclave,Mambakkam,mambakkam"
+        },
+        "searchType": null,
+        "authTokn": null,
+        "status": "A"
+      }
+    }
+  ]
+}

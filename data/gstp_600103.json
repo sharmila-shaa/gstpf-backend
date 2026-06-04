@@ -1,0 +1,85 @@
+{
+  "pincode": "600103",
+  "stateCode": "33",
+  "districtCode": "TNCHE",
+  "scrapedAt": "2026-06-01T05:38:00.539Z",
+  "totalRecords": 2,
+  "records": [
+    {
+      "pincode": "600103",
+      "enrollmentNo": "331800001479GPH",
+      "name": "MOHAMED MOINUDEEN MOHAMED PHEROSUDEEN",
+      "stateCode": "33",
+      "districtCode": "",
+      "qualification": "",
+      "address": "",
+      "district": "",
+      "city": "",
+      "pinCode": "600103",
+      "mobileNo": "",
+      "emailId": "",
+      "status": "",
+      "_raw": {
+        "enrlNo": "331800001479GPH",
+        "trpNam": "MOHAMED MOINUDEEN MOHAMED PHEROSUDEEN",
+        "stCd": "33",
+        "dstCd": null,
+        "pinCd": null,
+        "cntctNo": "8939260416",
+        "emailId": "muhammad.feroz79@gmail.com",
+        "ctgry": "GOPDC",
+        "adrs": {
+          "bldNo": "77/30",
+          "fltNo": null,
+          "bldName": "",
+          "road": "MANALI NEW TOWN",
+          "locality": "CHENNAI",
+          "district": "TNCHE",
+          "pinCd": "600103",
+          "addr": "77/30,MANALI NEW TOWN,CHENNAI"
+        },
+        "searchType": null,
+        "authTokn": null,
+        "status": "A"
+      }
+    },
+    {
+      "pincode": "600103",
+      "enrollmentNo": "332400008571GPV",
+      "name": "JAGFAR SADIQ",
+      "stateCode": "33",
+      "districtCode": "",
+      "qualification": "",
+      "address": "",
+      "district": "",
+      "city": "",
+      "pinCode": "600103",
+      "mobileNo": "",
+      "emailId": "",
+      "status": "",
+      "_raw": {
+        "enrlNo": "332400008571GPV",
+        "trpNam": "JAGFAR SADIQ",
+        "stCd": "33",
+        "dstCd": null,
+        "pinCd": null,
+        "cntctNo": "9840690519",
+        "emailId": "JAFFARTAXSERVICES@GMAIL.COM",
+        "ctgry": "GOPDC",
+        "adrs": {
+          "bldNo": "5/538",
+          "fltNo": null,
+          "bldName": "PHASE 1, DWARAKA NAGAR",
+          "road": "TNHB",
+          "locality": "MANALI NEW TOWN",
+          "district": "TNCHE",
+          "pinCd": "600103",
+          "addr": "5/538,PHASE 1, DWARAKA NAGAR,TNHB,MANALI NEW TOWN"
+        },
+        "searchType": null,
+        "authTokn": null,
+        "status": "A"
+      }
+    }
+  ]
+}

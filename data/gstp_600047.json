@@ -1,0 +1,123 @@
+{
+  "pincode": "600047",
+  "stateCode": "33",
+  "districtCode": "TNCHE",
+  "scrapedAt": "2026-06-01T05:36:01.858Z",
+  "totalRecords": 3,
+  "records": [
+    {
+      "pincode": "600047",
+      "enrollmentNo": "331800000946GPH",
+      "name": "AJOY KUMAR PRAMANICK",
+      "stateCode": "33",
+      "districtCode": "",
+      "qualification": "",
+      "address": "",
+      "district": "",
+      "city": "",
+      "pinCode": "600047",
+      "mobileNo": "",
+      "emailId": "",
+      "status": "",
+      "_raw": {
+        "enrlNo": "331800000946GPH",
+        "trpNam": "AJOY KUMAR PRAMANICK",
+        "stCd": "33",
+        "dstCd": null,
+        "pinCd": null,
+        "cntctNo": "9003122727",
+        "emailId": "AJOYP26@GMAIL.COM",
+        "ctgry": "GOPDC",
+        "adrs": {
+          "bldNo": "PLOT NO.3",
+          "fltNo": "",
+          "bldName": null,
+          "road": "AGASTHIYAR STREET",
+          "locality": "DURGANAGAR, TAMBARAM SANATORIUM",
+          "district": "TNCHE",
+          "pinCd": "600047",
+          "addr": "PLOT NO.3,AGASTHIYAR STREET,DURGANAGAR, TAMBARAM SANATORIUM"
+        },
+        "searchType": null,
+        "authTokn": null,
+        "status": "A"
+      }
+    },
+    {
+      "pincode": "600047",
+      "enrollmentNo": "331800000957GPE",
+      "name": "KANAGASABAI SENTHILVEL ANNAMALAI",
+      "stateCode": "33",
+      "districtCode": "",
+      "qualification": "",
+      "address": "",
+      "district": "",
+      "city": "",
+      "pinCode": "600047",
+      "mobileNo": "",
+      "emailId": "",
+      "status": "",
+      "_raw": {
+        "enrlNo": "331800000957GPE",
+        "trpNam": "KANAGASABAI SENTHILVEL ANNAMALAI",
+        "stCd": "33",
+        "dstCd": null,
+        "pinCd": null,
+        "cntctNo": "8680980252",
+        "emailId": "welcomemalai@gmail.com",
+        "ctgry": "GOPDC",
+        "adrs": {
+          "bldNo": "14",
+          "fltNo": null,
+          "bldName": "",
+          "road": "PILLAIYAR KOIL STREET, DURGA NAGAR",
+          "locality": "TAMBARAM SANATORIUM",
+          "district": "TNCHE",
+          "pinCd": "600047",
+          "addr": "14,PILLAIYAR KOIL STREET, DURGA NAGAR,TAMBARAM SANATORIUM"
+        },
+        "searchType": null,
+        "authTokn": null,
+        "status": "A"
+      }
+    },
+    {
+      "pincode": "600047",
+      "enrollmentNo": "331800002345GPT",
+      "name": "TANDANKORAI VISWANATHAN NARAYANAN",
+      "stateCode": "33",
+      "districtCode": "",
+      "qualification": "",
+      "address": "",
+      "district": "",
+      "city": "",
+      "pinCode": "600047",
+      "mobileNo": "",
+      "emailId": "",
+      "status": "",
+      "_raw": {
+        "enrlNo": "331800002345GPT",
+        "trpNam": "TANDANKORAI VISWANATHAN NARAYANAN",
+        "stCd": "33",
+        "dstCd": null,
+        "pinCd": null,
+        "cntctNo": "9840844926",
+        "emailId": "tvnarayanan2018@gmail.com",
+        "ctgry": "STPEL",
+        "adrs": {
+          "bldNo": "P.NO.8A 8B-34/8 FF-3",
+          "fltNo": "1st FLOOR",
+          "bldName": null,
+          "road": "B B SRI RAM COLONY",
+          "locality": "TAMBARAM",
+          "district": "TNCHE",
+          "pinCd": "600047",
+          "addr": "1st FLOOR,P.NO.8A 8B-34/8 FF-3,B B SRI RAM COLONY,TAMBARAM"
+        },
+        "searchType": null,
+        "authTokn": null,
+        "status": "A"
+      }
+    }
+  ]
+}

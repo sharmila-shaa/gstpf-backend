@@ -1,0 +1,85 @@
+{
+  "pincode": "600123",
+  "stateCode": "33",
+  "districtCode": "TNCHE",
+  "scrapedAt": "2026-06-01T05:38:42.754Z",
+  "totalRecords": 2,
+  "records": [
+    {
+      "pincode": "600123",
+      "enrollmentNo": "331900005635GPJ",
+      "name": "KUPPUSWAMY SEKAR",
+      "stateCode": "33",
+      "districtCode": "",
+      "qualification": "",
+      "address": "",
+      "district": "",
+      "city": "",
+      "pinCode": "600123",
+      "mobileNo": "",
+      "emailId": "",
+      "status": "",
+      "_raw": {
+        "enrlNo": "331900005635GPJ",
+        "trpNam": "KUPPUSWAMY SEKAR",
+        "stCd": "33",
+        "dstCd": null,
+        "pinCd": null,
+        "cntctNo": "9500139631",
+        "emailId": "sri.sekarks@gmail.com",
+        "ctgry": "GOPDC",
+        "adrs": {
+          "bldNo": "3/183",
+          "fltNo": null,
+          "bldName": null,
+          "road": "Gopal Street",
+          "locality": "Agarmel, Nazarethpettai, Poonamallee",
+          "district": "TNCHE",
+          "pinCd": "600123",
+          "addr": "3/183,Gopal Street,Agarmel, Nazarethpettai, Poonamallee"
+        },
+        "searchType": null,
+        "authTokn": null,
+        "status": "A"
+      }
+    },
+    {
+      "pincode": "600123",
+      "enrollmentNo": "332500009569GPD",
+      "name": "MOHAN VISWANATHAN",
+      "stateCode": "33",
+      "districtCode": "",
+      "qualification": "",
+      "address": "",
+      "district": "",
+      "city": "",
+      "pinCode": "600123",
+      "mobileNo": "",
+      "emailId": "",
+      "status": "",
+      "_raw": {
+        "enrlNo": "332500009569GPD",
+        "trpNam": "MOHAN VISWANATHAN",
+        "stCd": "33",
+        "dstCd": null,
+        "pinCd": null,
+        "cntctNo": "8681061638",
+        "emailId": "viswaconsultation@gmail.com",
+        "ctgry": "CAHCP",
+        "adrs": {
+          "bldNo": "NO 7",
+          "fltNo": null,
+          "bldName": null,
+          "road": "KARPAGA VINAYAGAR KOIL STREET",
+          "locality": "KANNADAPALAYAM, CHEMBARAMBAKKAM",
+          "district": "TNCHE",
+          "pinCd": "600123",
+          "addr": "NO 7,KARPAGA VINAYAGAR KOIL STREET,KANNADAPALAYAM, CHEMBARAMBAKKAM"
+        },
+        "searchType": null,
+        "authTokn": null,
+        "status": "A"
+      }
+    }
+  ]
+}

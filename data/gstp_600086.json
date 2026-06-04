@@ -1,0 +1,85 @@
+{
+  "pincode": "600086",
+  "stateCode": "33",
+  "districtCode": "TNCHE",
+  "scrapedAt": "2026-06-01T05:37:24.187Z",
+  "totalRecords": 2,
+  "records": [
+    {
+      "pincode": "600086",
+      "enrollmentNo": "332100006860GP0",
+      "name": "JAYACHANDRAN PURUSHOTHAMAN",
+      "stateCode": "33",
+      "districtCode": "",
+      "qualification": "",
+      "address": "",
+      "district": "",
+      "city": "",
+      "pinCode": "600086",
+      "mobileNo": "",
+      "emailId": "",
+      "status": "",
+      "_raw": {
+        "enrlNo": "332100006860GP0",
+        "trpNam": "JAYACHANDRAN PURUSHOTHAMAN",
+        "stCd": "33",
+        "dstCd": null,
+        "pinCd": null,
+        "cntctNo": "9884047411",
+        "emailId": "purujv@gmail.com",
+        "ctgry": "GOPDC",
+        "adrs": {
+          "bldNo": "NO.87",
+          "fltNo": null,
+          "bldName": null,
+          "road": "BABU STREET",
+          "locality": "TEYNAMPET",
+          "district": "TNCHE",
+          "pinCd": "600086",
+          "addr": "NO.87,BABU STREET,TEYNAMPET"
+        },
+        "searchType": null,
+        "authTokn": null,
+        "status": "A"
+      }
+    },
+    {
+      "pincode": "600086",
+      "enrollmentNo": "332500009337GPO",
+      "name": "SARAVANAKUMAR PALANI",
+      "stateCode": "33",
+      "districtCode": "",
+      "qualification": "",
+      "address": "",
+      "district": "",
+      "city": "",
+      "pinCode": "600086",
+      "mobileNo": "",
+      "emailId": "",
+      "status": "",
+      "_raw": {
+        "enrlNo": "332500009337GPO",
+        "trpNam": "SARAVANAKUMAR PALANI",
+        "stCd": "33",
+        "dstCd": null,
+        "pinCd": null,
+        "cntctNo": "9629788347",
+        "emailId": "palani@kpsn.in",
+        "ctgry": "CAHCP",
+        "adrs": {
+          "bldNo": "Flat No. 2",
+          "fltNo": "First Floor of No. 9 old No. 5",
+          "bldName": "",
+          "road": "5th Cross Street, Ellai Amman Colony",
+          "locality": "Chennai",
+          "district": "TNCHE",
+          "pinCd": "600086",
+          "addr": "First Floor of No. 9 old No. 5,Flat No. 2,5th Cross Street, Ellai Amman Colony,Chennai"
+        },
+        "searchType": null,
+        "authTokn": null,
+        "status": "A"
+      }
+    }
+  ]
+}

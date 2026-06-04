@@ -1,0 +1,85 @@
+{
+  "pincode": "600084",
+  "stateCode": "33",
+  "districtCode": "TNCHE",
+  "scrapedAt": "2026-06-01T05:37:19.954Z",
+  "totalRecords": 2,
+  "records": [
+    {
+      "pincode": "600084",
+      "enrollmentNo": "332200007799GPE",
+      "name": "SANDHIYA SHRIE T",
+      "stateCode": "33",
+      "districtCode": "",
+      "qualification": "",
+      "address": "",
+      "district": "",
+      "city": "",
+      "pinCode": "600084",
+      "mobileNo": "",
+      "emailId": "",
+      "status": "",
+      "_raw": {
+        "enrlNo": "332200007799GPE",
+        "trpNam": "SANDHIYA SHRIE T",
+        "stCd": "33",
+        "dstCd": null,
+        "pinCd": null,
+        "cntctNo": "9789056862",
+        "emailId": "sandhiyashrie1813@gmail.com",
+        "ctgry": "GOPDC",
+        "adrs": {
+          "bldNo": "100",
+          "fltNo": null,
+          "bldName": "SS AAVIN",
+          "road": "VELLALA STREET",
+          "locality": "PURASAIWALKAM",
+          "district": "TNCHE",
+          "pinCd": "600084",
+          "addr": "100,SS AAVIN,VELLALA STREET,PURASAIWALKAM"
+        },
+        "searchType": null,
+        "authTokn": null,
+        "status": "A"
+      }
+    },
+    {
+      "pincode": "600084",
+      "enrollmentNo": "332400009096GPS",
+      "name": "JANARDHANAN GAYATHRI",
+      "stateCode": "33",
+      "districtCode": "",
+      "qualification": "",
+      "address": "",
+      "district": "",
+      "city": "",
+      "pinCode": "600084",
+      "mobileNo": "",
+      "emailId": "",
+      "status": "",
+      "_raw": {
+        "enrlNo": "332400009096GPS",
+        "trpNam": "JANARDHANAN GAYATHRI",
+        "stCd": "33",
+        "dstCd": null,
+        "pinCd": null,
+        "cntctNo": "9789829157",
+        "emailId": "gaya2002@yahoo.com",
+        "ctgry": "GPDBA",
+        "adrs": {
+          "bldNo": "No. 218",
+          "fltNo": null,
+          "bldName": null,
+          "road": "14th Anna Street",
+          "locality": "Chennai",
+          "district": "TNCHE",
+          "pinCd": "600084",
+          "addr": "No. 218,14th Anna Street,Chennai"
+        },
+        "searchType": null,
+        "authTokn": null,
+        "status": "A"
+      }
+    }
+  ]
+}

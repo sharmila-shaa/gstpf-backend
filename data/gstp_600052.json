@@ -1,0 +1,85 @@
+{
+  "pincode": "600052",
+  "stateCode": "33",
+  "districtCode": "TNCHE",
+  "scrapedAt": "2026-06-01T05:36:12.349Z",
+  "totalRecords": 2,
+  "records": [
+    {
+      "pincode": "600052",
+      "enrollmentNo": "332000005756GPU",
+      "name": "KAMATCHI D",
+      "stateCode": "33",
+      "districtCode": "",
+      "qualification": "",
+      "address": "",
+      "district": "",
+      "city": "",
+      "pinCode": "600052",
+      "mobileNo": "",
+      "emailId": "",
+      "status": "",
+      "_raw": {
+        "enrlNo": "332000005756GPU",
+        "trpNam": "KAMATCHI D",
+        "stCd": "33",
+        "dstCd": null,
+        "pinCd": null,
+        "cntctNo": "9941565113",
+        "emailId": "tamilgstsevaimayam@gmail.com",
+        "ctgry": "GOPDC",
+        "adrs": {
+          "bldNo": "7",
+          "fltNo": null,
+          "bldName": null,
+          "road": "BAJANAI KOIL STREET",
+          "locality": "REDHILLS",
+          "district": "TNCHE",
+          "pinCd": "600052",
+          "addr": "7,BAJANAI KOIL STREET,REDHILLS"
+        },
+        "searchType": null,
+        "authTokn": null,
+        "status": "A"
+      }
+    },
+    {
+      "pincode": "600052",
+      "enrollmentNo": "332100007485GPV",
+      "name": "DWARAKARAJ PARTHASARATHY",
+      "stateCode": "33",
+      "districtCode": "",
+      "qualification": "",
+      "address": "",
+      "district": "",
+      "city": "",
+      "pinCode": "600052",
+      "mobileNo": "",
+      "emailId": "",
+      "status": "",
+      "_raw": {
+        "enrlNo": "332100007485GPV",
+        "trpNam": "DWARAKARAJ PARTHASARATHY",
+        "stCd": "33",
+        "dstCd": null,
+        "pinCd": null,
+        "cntctNo": "9884822179",
+        "emailId": "dwarakaraj7@gmail.com",
+        "ctgry": "GPDBA",
+        "adrs": {
+          "bldNo": "No.3/410",
+          "fltNo": null,
+          "bldName": null,
+          "road": "Kannagi Street",
+          "locality": "MA Nagar / Redhills / Chennai",
+          "district": "TNCHE",
+          "pinCd": "600052",
+          "addr": "No.3/410,Kannagi Street,MA Nagar / Redhills / Chennai"
+        },
+        "searchType": null,
+        "authTokn": null,
+        "status": "A"
+      }
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "pincode": "600074",
+  "stateCode": "33",
+  "districtCode": "TNCHE",
+  "scrapedAt": "2026-06-01T05:36:58.827Z",
+  "totalRecords": 2,
+  "records": [
+    {
+      "pincode": "600074",
+      "enrollmentNo": "331900004904GPJ",
+      "name": "SUKUMARAN JAI GANESH",
+      "stateCode": "33",
+      "districtCode": "",
+      "qualification": "",
+      "address": "",
+      "district": "",
+      "city": "",
+      "pinCode": "600074",
+      "mobileNo": "",
+      "emailId": "",
+      "status": "",
+      "_raw": {
+        "enrlNo": "331900004904GPJ",
+        "trpNam": "SUKUMARAN JAI GANESH",
+        "stCd": "33",
+        "dstCd": null,
+        "pinCd": null,
+        "cntctNo": "9884938869",
+        "emailId": "contactjaiganesh@gmail.com",
+        "ctgry": "GOPDC",
+        "adrs": {
+          "bldNo": "PLOT NO 43",
+          "fltNo": null,
+          "bldName": null,
+          "road": "MALLIGAI STREET PREM NAGAR",
+          "locality": "POZHICHALUR",
+          "district": "TNCHE",
+          "pinCd": "600074",
+          "addr": "PLOT NO 43,MALLIGAI STREET PREM NAGAR,POZHICHALUR"
+        },
+        "searchType": null,
+        "authTokn": null,
+        "status": "A"
+      }
+    },
+    {
+      "pincode": "600074",
+      "enrollmentNo": "332100006906GPS",
+      "name": "Palani prakash",
+      "stateCode": "33",
+      "districtCode": "",
+      "qualification": "",
+      "address": "",
+      "district": "",
+      "city": "",
+      "pinCode": "600074",
+      "mobileNo": "",
+      "emailId": "",
+      "status": "",
+      "_raw": {
+        "enrlNo": "332100006906GPS",
+        "trpNam": "Palani prakash",
+        "stCd": "33",
+        "dstCd": null,
+        "pinCd": null,
+        "cntctNo": "7904213928",
+        "emailId": "prakashsumo725@gmail.com",
+        "ctgry": "GOPDC",
+        "adrs": {
+          "bldNo": "F4",
+          "fltNo": "2nd floor",
+          "bldName": "",
+          "road": "Theepachiamman koil Street",
+          "locality": "Polichalur",
+          "district": "TNCHE",
+          "pinCd": "600074",
+          "addr": "2nd floor,F4,Theepachiamman koil Street,Polichalur"
+        },
+        "searchType": null,
+        "authTokn": null,
+        "status": "A"
+      }
+    }
+  ]
+}

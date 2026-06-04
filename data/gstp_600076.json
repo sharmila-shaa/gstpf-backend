@@ -1,0 +1,85 @@
+{
+  "pincode": "600076",
+  "stateCode": "33",
+  "districtCode": "TNCHE",
+  "scrapedAt": "2026-06-01T05:37:03.050Z",
+  "totalRecords": 2,
+  "records": [
+    {
+      "pincode": "600076",
+      "enrollmentNo": "331800000109GPV",
+      "name": "CHINNASAMY SUDAGAR",
+      "stateCode": "33",
+      "districtCode": "",
+      "qualification": "",
+      "address": "",
+      "district": "",
+      "city": "",
+      "pinCode": "600076",
+      "mobileNo": "",
+      "emailId": "",
+      "status": "",
+      "_raw": {
+        "enrlNo": "331800000109GPV",
+        "trpNam": "CHINNASAMY SUDAGAR",
+        "stCd": "33",
+        "dstCd": null,
+        "pinCd": null,
+        "cntctNo": "9444449701",
+        "emailId": "ceeyessandco@gmail.com",
+        "ctgry": "GPDBA",
+        "adrs": {
+          "bldNo": "NO.D3",
+          "fltNo": null,
+          "bldName": null,
+          "road": "TVS NAGAR 2ND MAIN ROAD",
+          "locality": "KORATTUR, CHENNAI",
+          "district": "TNCHE",
+          "pinCd": "600076",
+          "addr": "NO.D3,TVS NAGAR 2ND MAIN ROAD,KORATTUR, CHENNAI"
+        },
+        "searchType": null,
+        "authTokn": null,
+        "status": "A"
+      }
+    },
+    {
+      "pincode": "600076",
+      "enrollmentNo": "332000005638GPU",
+      "name": "CHINNASAMY SUDAGAR",
+      "stateCode": "33",
+      "districtCode": "",
+      "qualification": "",
+      "address": "",
+      "district": "",
+      "city": "",
+      "pinCode": "600076",
+      "mobileNo": "",
+      "emailId": "",
+      "status": "",
+      "_raw": {
+        "enrlNo": "332000005638GPU",
+        "trpNam": "CHINNASAMY SUDAGAR",
+        "stCd": "33",
+        "dstCd": null,
+        "pinCd": null,
+        "cntctNo": "9176214145",
+        "emailId": "cskb19313@gmail.com",
+        "ctgry": "STPEL",
+        "adrs": {
+          "bldNo": "NO.D3",
+          "fltNo": null,
+          "bldName": null,
+          "road": "TVS NAGAR 2ND MAIN ROAD",
+          "locality": "KORATTUR, CHENNAI",
+          "district": "TNCHE",
+          "pinCd": "600076",
+          "addr": "NO.D3,TVS NAGAR 2ND MAIN ROAD,KORATTUR, CHENNAI"
+        },
+        "searchType": null,
+        "authTokn": null,
+        "status": "A"
+      }
+    }
+  ]
+}

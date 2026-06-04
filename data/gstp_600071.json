@@ -1,0 +1,123 @@
+{
+  "pincode": "600071",
+  "stateCode": "33",
+  "districtCode": "TNCHE",
+  "scrapedAt": "2026-06-01T05:36:52.406Z",
+  "totalRecords": 3,
+  "records": [
+    {
+      "pincode": "600071",
+      "enrollmentNo": "331900004637GPG",
+      "name": "KUPPAN NAGARAJAN NAGARAJAN",
+      "stateCode": "33",
+      "districtCode": "",
+      "qualification": "",
+      "address": "",
+      "district": "",
+      "city": "",
+      "pinCode": "600071",
+      "mobileNo": "",
+      "emailId": "",
+      "status": "",
+      "_raw": {
+        "enrlNo": "331900004637GPG",
+        "trpNam": "KUPPAN NAGARAJAN NAGARAJAN",
+        "stCd": "33",
+        "dstCd": null,
+        "pinCd": null,
+        "cntctNo": "9444634054",
+        "emailId": "naga8668@gmail.com",
+        "ctgry": "GOPDC",
+        "adrs": {
+          "bldNo": "NO 168",
+          "fltNo": "MAIN ROAD",
+          "bldName": "JAYARAJ ILLAM",
+          "road": "KAMARAJAR NAGAR,AVADI",
+          "locality": "CHENNAI",
+          "district": "TNCHE",
+          "pinCd": "600071",
+          "addr": "MAIN ROAD,NO 168,JAYARAJ ILLAM,KAMARAJAR NAGAR,AVADI,CHENNAI"
+        },
+        "searchType": null,
+        "authTokn": null,
+        "status": "A"
+      }
+    },
+    {
+      "pincode": "600071",
+      "enrollmentNo": "332100006869GPI",
+      "name": "THIRUTHAMARAI SUNDARAM MANIKANDAN",
+      "stateCode": "33",
+      "districtCode": "",
+      "qualification": "",
+      "address": "",
+      "district": "",
+      "city": "",
+      "pinCode": "600071",
+      "mobileNo": "",
+      "emailId": "",
+      "status": "",
+      "_raw": {
+        "enrlNo": "332100006869GPI",
+        "trpNam": "THIRUTHAMARAI SUNDARAM MANIKANDAN",
+        "stCd": "33",
+        "dstCd": null,
+        "pinCd": null,
+        "cntctNo": "9150859365",
+        "emailId": "manits_02@yahoo.com",
+        "ctgry": "GOPDC",
+        "adrs": {
+          "bldNo": "11",
+          "fltNo": null,
+          "bldName": "AYYAPPAN NAGAR MAIN ROAD",
+          "road": "KAMARAJ NAGAR, AYYAPPAN NAGAR",
+          "locality": "CHENNAI",
+          "district": "TNCHE",
+          "pinCd": "600071",
+          "addr": "11,AYYAPPAN NAGAR MAIN ROAD,KAMARAJ NAGAR, AYYAPPAN NAGAR,CHENNAI"
+        },
+        "searchType": null,
+        "authTokn": null,
+        "status": "A"
+      }
+    },
+    {
+      "pincode": "600071",
+      "enrollmentNo": "332100007062GPB",
+      "name": "MAHALINGAM",
+      "stateCode": "33",
+      "districtCode": "",
+      "qualification": "",
+      "address": "",
+      "district": "",
+      "city": "",
+      "pinCode": "600071",
+      "mobileNo": "",
+      "emailId": "",
+      "status": "",
+      "_raw": {
+        "enrlNo": "332100007062GPB",
+        "trpNam": "MAHALINGAM",
+        "stCd": "33",
+        "dstCd": null,
+        "pinCd": null,
+        "cntctNo": "9788979328",
+        "emailId": "ns_mahan@yahoo.co.in",
+        "ctgry": "GPDBA",
+        "adrs": {
+          "bldNo": "23F1A, Saravana Apartment",
+          "fltNo": "1st Floor",
+          "bldName": "Ashok Niranjan Nagar",
+          "road": "Paruthipet",
+          "locality": "AVADI",
+          "district": "TNCHE",
+          "pinCd": "600071",
+          "addr": "1st Floor,23F1A, Saravana Apartment,Ashok Niranjan Nagar,Paruthipet,AVADI"
+        },
+        "searchType": null,
+        "authTokn": null,
+        "status": "A"
+      }
+    }
+  ]
+}
