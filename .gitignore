@@ -1,3 +1,6 @@
 node_modules/
 .env
-.json   
+.vercel/
+data/
+scripts/
+gstp_*.json

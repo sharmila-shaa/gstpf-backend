@@ -1,4 +1,4 @@
-const GSTP_SERVICE = require("../service/gstp.service");
+const pool = require("../neon");
 
 exports.searchGSTP = async (req, res) => {
     try {
@@ -16,21 +16,67 @@ exports.searchGSTP = async (req, res) => {
             });
         }
 
-        const records = await GSTP_SERVICE.fetchGSTPractitioners({
-            name,
-            state,
-            district,
-            pincode
-        });
+        let query = `
+            SELECT
+                enrollment_no,
+                name,
+                pincode,
+                mobile_no,
+                email_id,
+                state_code,
+                state_name,
+                district_code,
+                district_name,
+                address,
+                status
+            FROM gst_practitioners
+            WHERE 1 = 1
+        `;
 
-        return res.status(200).json(records);
+        const values = [];
+
+        if (name) {
+            values.push(`%${name}%`);
+            query += ` AND name ILIKE $${values.length}`;
+        }
+
+        if (state) {
+            values.push(state);
+            query += `
+                AND (
+                    state_code = $${values.length}
+                    OR state_name ILIKE $${values.length}
+                )
+            `;
+        }
+
+        if (district) {
+            values.push(district);
+            query += `
+                AND (
+                    district_code = $${values.length}
+                    OR district_name ILIKE $${values.length}
+                )
+            `;
+        }
+
+        if (pincode) {
+            values.push(pincode);
+            query += ` AND pincode = $${values.length}`;
+        }
+
+        query += ` ORDER BY name ASC`;
+
+        const result = await pool.query(query, values);
+
+        return res.status(200).json(result.rows);
 
     } catch (error) {
         console.error("GSTP SEARCH ERROR:", error.message);
 
-        return res.status(502).json({
+        return res.status(500).json({
             success: false,
-            error: error.message
+            error: "Unable to fetch GST Practitioner records"
         });
     }
 };
