@@ -80,48 +80,38 @@
 //         });
 //     }
 // };
+const pincodeMap =
+    require("../data/pincode-gst-map.json");
+
 const {
     fetchGSTPractitioners
 } = require("../service/gstp.service");
 
 exports.searchGSTP = async (req, res) => {
     try {
-        const state = String(
-            req.query.state || ""
-        ).trim();
-
-        const district = String(
-            req.query.district || ""
-        ).trim();
-
         const pincode = String(
             req.query.pincode || ""
         ).trim();
 
-        if (!state) {
-            return res.status(400).json({
-                success: false,
-                error: "Please select a state"
-            });
-        }
-
-        if (!district) {
-            return res.status(400).json({
-                success: false,
-                error: "Please select a district"
-            });
-        }
-
-        if (pincode && !/^\d{6}$/.test(pincode)) {
+        if (!/^\d{6}$/.test(pincode)) {
             return res.status(400).json({
                 success: false,
                 error: "Enter a valid 6-digit pincode"
             });
         }
 
+        const location = pincodeMap[pincode];
+
+        if (!location) {
+            return res.status(404).json({
+                success: false,
+                error: "Pincode mapping is not available"
+            });
+        }
+
         const records = await fetchGSTPractitioners({
-            state,
-            district,
+            state: location.stateCode,
+            district: location.districtCode,
             pincode
         });
 
