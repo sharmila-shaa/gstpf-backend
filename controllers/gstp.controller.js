@@ -81,7 +81,7 @@
 //     }
 // };
 const pincodeMap =
-    require("../data/pincode-gst-map.json");
+    require("../mappings/pincode-gst-map.json");
 
 const {
     fetchGSTPractitioners
