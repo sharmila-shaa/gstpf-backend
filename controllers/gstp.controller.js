@@ -86,11 +86,33 @@ const {
 
 exports.searchGSTP = async (req, res) => {
     try {
+        const state = String(
+            req.query.state || ""
+        ).trim();
+
+        const district = String(
+            req.query.district || ""
+        ).trim();
+
         const pincode = String(
             req.query.pincode || ""
         ).trim();
 
-        if (!/^\d{6}$/.test(pincode)) {
+        if (!state) {
+            return res.status(400).json({
+                success: false,
+                error: "Please select a state"
+            });
+        }
+
+        if (!district) {
+            return res.status(400).json({
+                success: false,
+                error: "Please select a district"
+            });
+        }
+
+        if (pincode && !/^\d{6}$/.test(pincode)) {
             return res.status(400).json({
                 success: false,
                 error: "Enter a valid 6-digit pincode"
@@ -98,6 +120,8 @@ exports.searchGSTP = async (req, res) => {
         }
 
         const records = await fetchGSTPractitioners({
+            state,
+            district,
             pincode
         });
 
