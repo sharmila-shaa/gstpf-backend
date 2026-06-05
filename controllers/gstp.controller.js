@@ -80,8 +80,9 @@
 //         });
 //     }
 // };
-const pincodeMap =
-    require("../mappings/pincode-gst-map.json");
+const {
+    resolvePincode
+} = require("../service/pincode.service");
 
 const {
     fetchGSTPractitioners
@@ -100,26 +101,30 @@ exports.searchGSTP = async (req, res) => {
             });
         }
 
-        const location = pincodeMap[pincode];
+        const location =
+            await resolvePincode(pincode);
 
-        if (!location) {
-            return res.status(404).json({
-                success: false,
-                error: "Pincode mapping is not available"
+        console.log(
+            "Resolved location:",
+            location
+        );
+
+        const records =
+            await fetchGSTPractitioners({
+                state: location.stateCode,
+                district: "",
+                pincode
             });
-        }
 
-        const records = await fetchGSTPractitioners({
-            state: location.stateCode,
-            district: location.districtCode,
-            pincode
+        return res.status(200).json({
+            success: true,
+            location,
+            data: records
         });
-
-        return res.status(200).json(records);
 
     } catch (error) {
         console.error(
-            "GSTP LIVE SEARCH ERROR:",
+            "GSTP SEARCH ERROR:",
             error.message
         );
 
