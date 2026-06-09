@@ -9,18 +9,14 @@ const gstpRoutes = require("./routes/gstp.routes");
 const app = express();
 
 const allowedOrigins = [
+    // Deployed Vue frontend
     "https://gstpf-frontend-v.vercel.app",
-    "https://gstpf-frontend.vercel.app",
 
-    
-    "http://localhost:5500",
-    "http://127.0.0.1:5500",
-
-   
+    // Local Vue frontend
     "http://localhost:5173",
     "http://127.0.0.1:5173",
 
-    
+    // Optional frontend URL from backend .env
     process.env.FRONTEND_URL
 ].filter(Boolean);
 
@@ -50,7 +46,7 @@ app.use("/api/gstp", gstpRoutes);
 
 const PORT = process.env.PORT || 3000;
 
-// Required for Vercel
+// Required for Vercel deployment
 module.exports = app;
 
 // Required only for local development
