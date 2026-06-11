@@ -5,6 +5,8 @@ const cors = require("cors");
 
 const authRoutes = require("./routes/auth.routes");
 const gstpRoutes = require("./routes/gstp.routes");
+const locationRoutes = require("./routes/location.routes");
+
 
 const app = express();
 
@@ -43,7 +45,7 @@ app.get("/", (req, res) => {
 
 app.use("/api/auth", authRoutes);
 app.use("/api/gstp", gstpRoutes);
-
+app.use("/api/location", locationRoutes);
 const PORT = process.env.PORT || 3000;
 
 // Required for Vercel deployment
